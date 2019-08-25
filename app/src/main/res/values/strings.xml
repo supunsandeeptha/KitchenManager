@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">KitchenManager</string>
+    <string name="mainactivity_textview">Welcome to Kitchen Manager</string>
+    <string name="textview_welcome">Welcome to Kitchen Manager</string>
+    <string name="register_productsBtn">Register Products</string>
+    <string name="display_productsBtn">Display Products</string>
+    <string name="availabilityBtn">Availability</string>
+    <string name="edit_productsBtn">Edit Products</string>
+    <string name="searchBtn">Search</string>
+    <string name="recipiesBtn">Recipies</string>
+    <string name="title_activity_recycler_view_test">RecyclerViewTest</string>
+    <string name="search_hint">Search Kitchen Item</string>
+    <string name="edit_items">Edit Items</string>
+    <string name="click_an_item_to_edit">Click an Item to Edit</string>
+    <string name="inflate_editproductID">ID</string>
+    <string name="inflatelayout_name">Name</string>
+    <string name="register_products">Register Products</string>
+    <string name="label_item_name">ITEM NAME     </string>
+    <string name="labelweight_g_kg">WEIGHT(g/Kg) </string>
+    <string name="labelprice">PRICE (£) </string>
+    <string name="labeldescription">DESCRIPTION </string>
+    <string name="labelitem_name">Item Name</string>
+    <string name="labelweight">Weight</string>
+    <string name="hintprice">Price</string>
+    <string name="hintdescription">Description</string>
+    <string name="hintsave">SAVE</string>
+    <string name="availability_of_itemstopic">Availability of Items</string>
+    <string name="btnsave">SAVE</string>
+    <string name="btnadd_item">Add Item</string>
+    <string name="edit_detailstopic">Edit Details</string>
+    <string name="itemname_info">ITEM NAME</string>
+    <string name="weight_g_kg_info">WEIGHT(g/Kg)</string>
+    <string name="price_info">PRICE (£)</string>
+    <string name="description_info">DESCRIPTION</string>
+    <string name="item_name_info">Item Name</string>
+    <string name="weight_info">Weight</string>
+    <string name="price_info2">Price</string>
+    <string name="description_info2">Description</string>
+    <string name="availability_info2">AVAILABILITY</string>
+    <string name="availability_info3">Availability</string>
+    <string name="item_descripiton">Description</string>
+    <string name="_1">1</string>
+    <string name="item_txt">Item</string>
+    <string name="itemKitchen_name">Name</string>
+    <string name="itemkitchen_products">Products</string>
+    <string name="recipeView_products">Products</string>
+    <string-array name="status">
+        <item>Available</item>
+        <item>Not Available</item>
+    </string-array>
+    <string name="para1">This App can be used to manage your kitchen items(food)</string>
+    <string name="para2">1 You have to add the items using the register products function</string>
+    <string name="para3">2 Using the display products function you can view all the registered products
+    and Using the checkboxes you can add the items which are available in the kitchen So that others you have to buy </string>
+    <string name="para4">3 You can view all the items which are available in the kitchen using the availability function</string>
+    <string name="para5">4 Using the EditProducts item you can view all the available products and you can edit the product details</string>
+    <string name="para6">5 Using the Search Function You can search for items Search is optimized so that you can search using name and description as well</string>
+    <string name="para7">6 Using the recipes function you can find recipes using the available items in the kitchen It will show you the recipe as well as a link to the recipe </string>
+    <string name="btn_update">UPDATE</string>
+    <string name="label2_id">ID</string>
+    <string name="item_id2">ITEM ID</string>
+</resources>
